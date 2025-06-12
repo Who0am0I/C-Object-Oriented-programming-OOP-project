@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1748447139 source:c:\users\iti_m\onedrive\desktop\finalproject2\main.cpp
+	<iostream>
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Appointment.h"
+
+1748447139 c:\users\iti_m\onedrive\desktop\finalproject2\include\person.h
+	<string>
+
+1748447346 c:\users\iti_m\onedrive\desktop\finalproject2\include\doctor.h
+	"Person.h"
+
+1748447140 c:\users\iti_m\onedrive\desktop\finalproject2\include\patient.h
+	"Person.h"
+
+1748447140 c:\users\iti_m\onedrive\desktop\finalproject2\include\appointment.h
+	"Doctor.h"
+	"Patient.h"
+	<string>
+	<vector>
+
+1748447346 source:c:\users\iti_m\onedrive\desktop\finalproject2\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+
+1748447139 source:c:\users\iti_m\onedrive\desktop\finalproject2\src\patient.cpp
+	"Patient.h"
+	<iostream>
+
+1748447140 source:c:\users\iti_m\onedrive\desktop\finalproject2\src\person.cpp
+	"Person.h"
+	<iostream>
+
+1748447172 source:c:\users\iti_m\onedrive\desktop\finalproject2\src\appointment.cpp
+	"Appointment.h"
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+
+1748447346 source:d:\downloads\finalproject2\src\doctor.cpp
+	"Doctor.h"
+	<iostream>
+
+1748447346 d:\downloads\finalproject2\include\doctor.h
+	"Person.h"
+
+1748447139 d:\downloads\finalproject2\include\person.h
+	<string>
+
+1748447139 source:d:\downloads\finalproject2\src\patient.cpp
+	"Patient.h"
+	<iostream>
+
+1748447140 d:\downloads\finalproject2\include\patient.h
+	"Person.h"
+
+1748447140 source:d:\downloads\finalproject2\src\person.cpp
+	"Person.h"
+	<iostream>
+
+1748461612 source:d:\downloads\finalproject2\main.cpp
+	<iostream>
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Appointment.h"
+
+1748462348 d:\downloads\finalproject2\include\appointment.h
+	"Doctor.h"
+	"Patient.h"
+	<string>
+	<vector>
+
+1748461488 source:d:\downloads\finalproject2\src\appointment.cpp
+	"Appointment.h"
+	<iostream>
+	"Doctor.h"
+	"Patient.h"
+
